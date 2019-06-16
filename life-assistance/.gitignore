@@ -1,0 +1,6 @@
+#editor specific
+.vscode
+
+#project
+node_modules
+dist
